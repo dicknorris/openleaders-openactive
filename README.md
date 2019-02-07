@@ -1,2 +1,2 @@
-# openleaders-openactive
-A place to track our progress through the Mozilla Open Leaders programme
+# OpenActive vision for OL7
+We are helping physical activity providers (i.e. gyms and leisure centres) open up their timetables in a standardised format, so innovators can use that data to create new things that help people find and book activities. Open leadership will help us empower and upskill the people we are working with, creating a sense of ownership among the community that is essential for the culture change to be embedded in the long term.  
